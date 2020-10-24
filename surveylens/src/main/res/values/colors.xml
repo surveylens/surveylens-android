@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surveylensPrimary">#805ad5</color>
+    <color name="surveylensPrimaryText">#2d3748</color>
+
+    <color name="listItemUnchecked">#FFFFFF</color>
+    <color name="listItemChecked">@color/surveylensPrimary</color>
+
+    <color name="surveylensSingleAnswerBackground">#2C805ad5</color>
+
+    <color name="listItemUncheckedForeground">@color/surveylensPrimary</color>
+    <color name="listItemCheckedForeground">#FFFFFF</color>
+
+    <color name="baseTextColor">@color/surveylensPrimary</color>
+    <color name="answerTextColor">#FFFFFF</color>
+
+    <color name="sl_text_grey">#818181</color>
+
+    <color name="backgroundYes">#4CAF50</color>
+    <color name="backgroundNo">#F44336</color>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="multiselect_question_no_answer">Please select at least one answer</string>
+    <string name="multiselect_select_button">Select</string>
+    <string name="powered_by">powered by</string>
+    <string name="powered_by_surveylens">surveylens.io</string>
+</resources>
